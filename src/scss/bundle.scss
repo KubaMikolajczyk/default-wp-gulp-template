@@ -1,0 +1,17 @@
+//src/scss/bundle.scss
+@import './components/slider.scss';
+@import './components/header.scss';
+@import './components/footer.scss';
+$colour: #fff;
+
+body {
+  background-color: $colour;
+}
+
+html,body{
+  margin: 0;
+}
+
+h1{
+  margin: 0;
+}
